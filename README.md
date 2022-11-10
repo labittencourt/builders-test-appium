@@ -23,8 +23,9 @@ brew install node@14
 brew link node@14
 ````
 
-2. Install project dependencies:
+2. Install project e dependencies:
 
+git clone https://github.com/labittencourt/builders-test-appium.git
 ````
 npm install
 ````
